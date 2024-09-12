@@ -81,7 +81,7 @@ let hgKs = [
     "hf_TzyVejVsiTSaxQVLynLUgLEGsOtURyGar"
 ];
 ```
-You can replace the API keys in the code with your own from Hugging Face.
+Dont forget to replace the API keys in the code with your own from Hugging Face.
 
 ## Future Improvements
 
