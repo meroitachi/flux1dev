@@ -36,7 +36,7 @@ Ensure you have the following installed on your system:
 To start the server, run:
 
 ```bash
-node index.js
+node app.js
 ```
 The server will start on `http://localhost:3000`.
 
