@@ -1,5 +1,4 @@
 const express = require("express");
-//const fetch = require("node-fetch");
 // Ensure to install this if not already
 const app = express();
 const port = 3000;
