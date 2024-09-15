@@ -33,7 +33,7 @@ const generateJobId = () => {
 // In-memory datastore for job descriptions
 const dataStore = {
     superad: {
-        description: "A BMW car on the fairy tale street",
+        description: "A beautiful girl from fairy tale",
         timestamp: Date.now()
     }
 };
